@@ -4,25 +4,25 @@ This a undergraduate course repository of Theoretical Hypothesis Testing at Eski
 
 ## Contents
 
-### Week 1. Introduction / Oct 3, 2022 15:00
+### Week 1. Introduction - Oct 3, 2022 15:00
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week1.pdf) 
 
 ---
 
-### Week 2. Hypothesis testing steps / Oct 10, 2022 15:00
+### Week 2. Hypothesis testing steps - Oct 10, 2022 15:00
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week2.pdf)
 
 ---
 
-### Week 3. Power analysis / Oct 17, 2022 15:00
+### Week 3. Power analysis - Oct 17, 2022 15:00
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week3.pdf)
 
 ---
 
-### Week 4. Tests for normal distributed population mean(s) / Oct 23, 2022 15:00
+### Week 4. Tests for normal distributed population mean(s) - Oct 24, 2022 15:00
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week4.pdf) ❖ [R Exercises](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Exercises_Week4.R)
 
