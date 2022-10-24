@@ -1,3 +1,20 @@
+# blood-pressure dataset from "Teager and Hunt (2014) Statistical Hypothesis Testing with SAS and R"
+blood_pressure <- data.frame(status = c(0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                                        0, 0, 0, 0, 0, 
+                                        1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                                        1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                                        1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+                            mmhg = c(120, 115, 94, 118, 111, 102, 102, 
+                                     131, 104, 107, 115, 139, 115, 113,
+                                     114, 105, 115, 134, 109, 109, 93,
+                                     118, 109, 106, 125, 150, 142, 119,
+                                     127, 141, 149, 144, 142, 149, 161,
+                                     143, 140, 148, 149, 141, 146, 159,
+                                     152, 135, 134, 161, 130, 125, 141,
+                                     148, 153, 145, 137, 147, 169))
+
+
 # We need to implement one sample Z-test manually, 
 # because there is no ready-to-use function in base R.
 z.test <- function(sample, 
