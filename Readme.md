@@ -26,3 +26,8 @@ This a undergraduate course repository of Theoretical Hypothesis Testing at Eski
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week4.pdf) ❖ [R Exercises](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Exercises_Week4.R)
 
+---
+
+### Week 5. Normality tests - Nov 7, 2022 15:00
+
+[Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week5.pdf)
