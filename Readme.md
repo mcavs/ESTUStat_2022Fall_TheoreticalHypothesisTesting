@@ -43,3 +43,9 @@ This a undergraduate course repository of Theoretical Hypothesis Testing at Eski
 ### Week 7. Tests for population proportion(s) - Nov 21, 2022 15:00
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week7.pdf) ❖ [R Applications and Simulations](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/tht_w7.R) 
+
+---
+
+### Week 8. Recap - Nov 28, 2022 15:00
+
+[Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week8.pdf)
