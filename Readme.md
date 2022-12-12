@@ -49,3 +49,9 @@ This a undergraduate course repository of Theoretical Hypothesis Testing at Eski
 ### Week 8. Recap - Nov 28, 2022 15:00
 
 [Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week8.pdf)
+
+---
+
+### Week 9. Tests on correlation coefficient - Dec 12, 2022 15:00
+
+[Notes](https://github.com/mcavs/ESTUStat_2022Fall_TheoreticalHypothesisTesting/blob/main/THT_Week9.pdf)
