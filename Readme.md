@@ -1,6 +1,6 @@
 # Theoretical Hypothesis Testing
 
-This a undergraduate course repository of Theoretical Hypothesis Testing at Eskisehir Technical University, Department of Statistics.
+This is an undergraduate course repository of Theoretical Hypothesis Testing at Eskisehir Technical University, Department of Statistics.
 
 ## Contents
 
