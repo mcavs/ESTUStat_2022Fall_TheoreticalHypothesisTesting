@@ -36,7 +36,7 @@ comp <- function(n1 = 10, mean1 = 1, sigma1 = 1,
   pval.l <- NULL
   pval.f <- NULL
   
-  for(i in 1:10000){
+  for(i in 1:1000){
     samp1 <- rnorm(n1, mean = mean1, sd = sqrt(sigma1))
     samp2 <- rnorm(n2, mean = mean2, sd = sqrt(sigma2))
     samp3 <- rnorm(n3, mean = mean3, sd = sqrt(sigma3))
